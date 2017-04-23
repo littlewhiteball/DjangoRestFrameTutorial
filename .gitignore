@@ -1,0 +1,5 @@
+tutorial/__pycache__
+db.sqlite3
+snippets/__pycache__
+.DS_Store
+tutorial/.DS_Store
